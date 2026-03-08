@@ -1,0 +1,4 @@
+{
+  "karateRunner.core.classpath": "karate.jar",
+  "karateRunner.core.mainClass": "com.intuit.karate.Main"
+}
